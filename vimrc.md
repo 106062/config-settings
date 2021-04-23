@@ -41,4 +41,4 @@ hi LineNr cterm=bold ctermfg=DarkGrey ctermbg=NONE
 hi CursorLineNr cterm=bold ctermfg=Green ctermbg=NONE
 ```
 
-<img src="./pic/sample.png>
+<img src="./pic/sample.png">
